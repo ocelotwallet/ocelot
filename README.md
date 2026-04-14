@@ -1,4 +1,5 @@
-# ocelot
+# Ocelot Wallet
+
 Ocelot Wallet is a native GUI wallet for Zeicoin blockchain (In Active Development)
 
 Official GitHub organization for Ocelot Wallet.
